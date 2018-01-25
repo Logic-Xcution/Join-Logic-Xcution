@@ -1,9 +1,10 @@
 # Web Weavers?
 Web weavers is an open community for all the enthusiast developers and all the aspiring to-be-developers to come and discuss their dounts and share their experiences.
+**This community has the sole purpose of helping all aspiring developers learn more about developement**
 
 ## Join Web Weavers
 1. Fork ths repository
-2. Add your name in the contributing.md
+2. Add your name (with a link to your github profile) and one or two lines about yourself in the [contributing.md](contributing.md)
 3. Make a pull request.
 4. Open an issue in this repo stating your name and purpose of joining.
 
