@@ -1,4 +1,7 @@
 # Logic-Xcution?
+
+**NOTE - This community is no longer active, we've shifted to the lean space and will be building the comunity soon, stay tuned to our LinkedIn page - [https://www.linkedin.com/company/theleanprogrammer](https://www.linkedin.com/company/theleanprogrammer)**
+
 LX is an open community for all the enthusiast developers and all the aspiring to-be-developers to come and discuss their dounts and share their experiences.
 **This community has the sole purpose of helping all aspiring developers learn more about developement**
 
