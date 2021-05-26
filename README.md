@@ -1,4 +1,4 @@
-# Logic-Xcution?
+# Logic-Xcution (NO LONGER ACTIVE - Please join TLP instead)
 
 **NOTE - This community is no longer active, we've shifted to the lean space and will be building the comunity soon, stay tuned to our LinkedIn page - [https://www.linkedin.com/company/theleanprogrammer](https://www.linkedin.com/company/theleanprogrammer)**
 
